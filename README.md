@@ -18,6 +18,3 @@ This is a simple dice game built with HTML, CSS, and JavaScript. The game allows
 - **HTML**: Provides the structure of the game.
 - **CSS**: Used for styling the page with a custom font and colors.
 - **JavaScript**: Implements the game logic to randomly roll dice and determine the winner.
-
-## Project Structure
-
